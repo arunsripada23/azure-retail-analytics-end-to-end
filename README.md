@@ -259,8 +259,9 @@ Main KPIs:
 # Author
 
 Sripada Arun
+
 arunsripada23@gmail.com
+
 6281186989
 
-LinkedIn:
-[(LinkedIn)](https://www.linkedin.com/in/sripada-arun-586183408/)
+[LinkedIn](https://www.linkedin.com/in/sripada-arun-586183408/)
