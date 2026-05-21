@@ -263,4 +263,4 @@ arunsripada23@gmail.com
 6281186989
 
 LinkedIn:
-[(Add your LinkedIn URL)](https://www.linkedin.com/in/sripada-arun-586183408/)
+[(LinkedIn)](https://www.linkedin.com/in/sripada-arun-586183408/)
