@@ -17,23 +17,22 @@ The solution processes raw e-commerce transactional data, performs data transfor
 
 CSV Dataset
 
-    *↓*
+    ↓
 
 Azure Data Lake Storage Gen2 (Bronze Layer)
 
-    **↓**
+      ↓
 
 Azure Databricks (Silver Layer)
 
-    **↓**
+      ↓
 
 Azure Databricks Gold Layer (Delta Tables)
 
-    **↓**
+      ↓
 
 Azure Synapse Serverless SQL Views
-
-    **↓**
+      ↓
 
 Power BI Interactive Dashboards
 
