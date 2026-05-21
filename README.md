@@ -262,6 +262,6 @@ Sripada Arun
 
 arunsripada23@gmail.com
 
-6281186989
++91 6281186989
 
 [LinkedIn](https://www.linkedin.com/in/sripada-arun-586183408/)
