@@ -1,0 +1,8 @@
+pyspark
+delta-spark
+azure-storage-blob
+azure-identity
+pandas
+numpy
+matplotlib
+seaborn
